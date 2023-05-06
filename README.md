@@ -1,1 +1,1 @@
-##### Duc Hung Ho, Student at HCMUT-VNUHCM
+##### Hồ Đức Hưng, Student at HCMUT-VNUHCM
