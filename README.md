@@ -1,8 +1,7 @@
 # Hi there !!!
 
-- I'm senior computer science student at 
-**HCMUT** 
-<img src="https://github.com/iduchungho/iduchungho/assets/78150104/dd30aaa6-fa14-4fa2-aabb-5f71cc309c99" alt="hcmut" width="40" height="40" />
+- I'm senior computer science student at <br/> **HCMUT** <br/>
+    <img src="https://github.com/iduchungho/iduchungho/assets/78150104/dd30aaa6-fa14-4fa2-aabb-5f71cc309c99" alt="hcmut" width="40" height="40" />
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
